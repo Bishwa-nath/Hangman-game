@@ -2,7 +2,9 @@
 This is a word guessing game represented by a row of dashes, representing each letter of the word.
 
 
-### Simple output:
+**Instructions:** Download the Python file and txt file. Keep them in the same directory. Then run the Python file. 
+
+## Simple output:
 
 Loading word list from file...
 
