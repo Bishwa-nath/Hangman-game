@@ -4,6 +4,10 @@ This is a word guessing game represented by a row of dashes, representing each l
 
 ## Simple output:
 
+Loading word list from file...
+
+	55900 words loaded.
+  
 Welcome to the game Hangman!
 
 I am thinking of a word that is 3  letters long.
