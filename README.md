@@ -67,5 +67,3 @@ Good guess: sea
 *-----------*
 
 Congratulations, you won!
-
-None
